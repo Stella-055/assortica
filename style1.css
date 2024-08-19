@@ -1,0 +1,22 @@
+h1{
+	text-align: center;
+	color:	#964B00 !important;
+	padding-bottom: 15x;
+	text-decoration: underline;
+
+}
+
+img{
+	position: relative;
+	width: 400px;
+	height: 300px;
+}
+#footer{
+	background:#333;
+	color: #fff;
+	padding:1px;
+}
+.fa-copyright{
+	margin:10px;
+
+}
